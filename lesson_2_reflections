@@ -3,3 +3,16 @@ An empty repository is created with no commits in it.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The files in the staging area are a subset of the files in the working directory. These files are yet to be committed to the repository.It helps demarcate between actual commits and updates.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By adding files from the working directory to the staging area after coding for one logical problem at a time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+
+How do the diagrams help you visualize the branch structure?
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
